@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int animals[10][10] = {};
+    int animals[11][11] = {};
 
     for (int i = 1; i <= 10; i++)
     {
